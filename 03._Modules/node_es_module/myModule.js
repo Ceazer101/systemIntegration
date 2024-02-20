@@ -1,5 +1,5 @@
 export default class ClassA {
     constructor() {
-        console.log("Class A instansiated")
+        console.log("Class A instantiated")
     }
 }

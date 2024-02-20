@@ -1,3 +1,4 @@
-from my_module.file_one import ClassA
+from my_module import ClassA, ClassB
 
 ClassA()
+ClassB()

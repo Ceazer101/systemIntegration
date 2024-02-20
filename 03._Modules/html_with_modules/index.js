@@ -1,3 +1,3 @@
 import ClassA from "./myModule";
 
-new ClassA
+new ClassA();

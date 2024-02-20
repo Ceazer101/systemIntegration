@@ -1,5 +1,3 @@
-import ClassA from "./myModule";
+import ClassA from "./myModule.js";
 
-new ClassA
-
-const ClassA = new ClassA();
+const classA = new ClassA();
